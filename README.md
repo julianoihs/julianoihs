@@ -1,30 +1,31 @@
-# _Oláááá! Sou o Juliano Azevedo_
+### _Olá! Sou o_  
+# _Juliano Azevedo_
+
 
 
 <div align="center">
   <a href="https://github.com/julianoihs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianoihs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-<!--    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianoihs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoihs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
--->
+
 </div>
   
   
  ## Skills :nerd_face:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-docker" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Rafa-kubernetes" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Rafa-Linux" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Rafa-debian" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <img align="center" alt="Rafa-gitlab" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Rafa-github" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Rafa-git" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Python" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-vscode" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-vim" height="40" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
+  <img align="center" alt="Rafa-docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Rafa-kubernetes" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Rafa-Linux" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Rafa-debian" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+  <img align="center" alt="Rafa-gitlab" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Rafa-github" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Rafa-git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-vscode" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Rafa-vim" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
   
 </div>
-   
+
   
   ## Contact :iphone:
   
@@ -36,9 +37,9 @@
   <a href = "https://t.me/julianoihs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  <p align="center"> 
 
- 
+
    
-</p>
+<div>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
