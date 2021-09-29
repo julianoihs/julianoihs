@@ -1,12 +1,14 @@
-### _Oláááá! Sou o Juliano Azevedo_
+# _Oláááá! Sou o Juliano Azevedo_
 
 
 <div align="center">
   <a href="https://github.com/julianoihs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianoihs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<!--    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoihs&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  </div>
- 
+-->
+</div>
+  
   
  ## Skills :nerd_face:
 <div style="display: inline_block"><br>
@@ -25,9 +27,12 @@
    
   
   ## Contact :iphone:
- <div> 
+  
+<p align="center">
   <a href="https://www.linkedin.com/in/juliano-azevedo-de-jesus-b4798234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "mailto:julianoihs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href = "https://t.me/julianoihs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
  <p align="center"> 
 
@@ -53,5 +58,4 @@ Here are some ideas to get you started:
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 
---
->
+-->
