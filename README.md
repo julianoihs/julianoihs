@@ -11,19 +11,22 @@
   
  ## Skills :nerd_face:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Rafa-kubernetes" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Rafa-Linux" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Rafa-debian" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <img align="center" alt="Rafa-gitlab" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Rafa-github" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Rafa-git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-vscode" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-vim" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
+  <img align="center" alt="Rafa-debian" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg">
+  <img align="center" alt="Rafa-redhat" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg">
+  <img align="center" alt="Rafa-ansible" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+  <!-- <img align="center" alt="Rafa-terraform" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg"> -->
+  <img align="center" alt="Rafa-docker" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <!-- <img align="center" alt="Rafa-kubernetes" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"> -->
+  <img align="center" alt="Rafa-gitlab" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg">
+  <img align="center" alt="Rafa-github" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <!-- <img align="center" alt="Rafa-git" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"> -->
+  <!-- <img align="center" alt="Rafa-nginx" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"> -->
+  <img align="center" alt="Rafa-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Rafa-vscode" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Rafa-vim" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
 </div>
 
-  
   
   
   
@@ -39,14 +42,11 @@
 
 
    
-<div>
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<!-- <div>
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ </div> -->
 
-<!--
-**julianoihs/julianoihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **julianoihs/julianoihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -57,6 +57,16 @@ Here are some ideas to get you started:
 - 💬 Pergunte-me sobre ...
 - 📫 Como chegar até mim: ...
 - 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- ⚡ Curiosidade: ...-->
 
--->
+Um pouco sobre mim... 
+
+- 🔭 Atualmente estou trabalhando Analista de Infra / DevOps
+- 🌱 Atualmente estou praticando ansible / Python
+- 👯 Estou procurando colaborar em um projeto open souce
+- 🤔 Estou procurando ajuda com Ansible
+- 📫 Como chegar até mim: Email & linkedIn
+- ⚡ Curiosidade: Muita kkkkk (Sou Brincalhão)
+
+
+ 
