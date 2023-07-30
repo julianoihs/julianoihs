@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 
 Um pouco sobre mim... 
 
-- 🔭 Atualmente estou trabalhando Analista de Infra / DevOps
-- 🌱 Atualmente estou praticando ansible / Python
-- 👯 Estou procurando colaborar em um projeto open souce
-- 🤔 Estou procurando ajuda com Ansible
-- 📫 Como chegar até mim: Email & linkedIn
-- ⚡ Curiosidade: Muita kkkkk (Sou Brincalhão)
+- 🔭 Atualmente estou trabalhando como Analista de Infra / DevOps Jr
+- 🌱 Atualmente estou praticando Ansible / Python
+- 👯 Estou procurando colaborar em um projeto Open Souce
+- 🤔 Estou procurando ajuda em Ansible
+- 📫 Como chegar até mim: Email & LinkedIn
+- ⚡ Curiosidade:  Muita 😄  (Sou Brincalhão)
 
 
  
