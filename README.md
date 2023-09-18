@@ -63,10 +63,9 @@ Um pouco sobre mim...
 
 - 🔭 Atualmente estou trabalhando como Analista de Infra / DevOps Jr
 - 🌱 Atualmente estou praticando Ansible / Python
-- 👯 Estou procurando colaborar em um projeto Open Souce
-- 🤔 Estou procurando ajuda em Ansible
+- 👯 À procura de um projeto Open Souce
 - 📫 Como chegar até mim: Email & LinkedIn
-- ⚡ Curiosidade:  Muita 😄  (Sou Brincalhão)
+- ⚡ Curiosidade:  Muitas 😄  (Sou Brincalhão)
 
 
  
