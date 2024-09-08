@@ -61,11 +61,10 @@ Here are some ideas to get you started:
 
 Um pouco sobre mim... 
 
-- 🔭 Atualmente estou trabalhando como Analista de Infra / DevOps Jr
-- 🌱 Atualmente estou praticando Ansible / Python
+- 🔭 Atualmente estou trabalhando como Analista de TI - Pleno / Estudante de DevOps
+- 🌱 Atualmente estou praticando Ansible / Python / GitLab
 - 👯 À procura de um projeto Open Souce
 - 📫 Como chegar até mim: Email & LinkedIn
-- ⚡ Curiosidade:  Muitas 😄  (Sou Brincalhão)
 
 
  
