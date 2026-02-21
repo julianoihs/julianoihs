@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 Um pouco sobre mim... 
 
 - 🔭 Atualmente estou trabalhando como Analista de TI / Estudante de DevOps
-- 🌱 Atualmente estou praticando Ansible / GO / GitLab
+- 🌱 Atualmente estou praticando Kubernetes / GO / GitLab
 - 👯 À procura de um projeto Open Souce
 - 📫 Como chegar até mim: Email & LinkedIn
 
