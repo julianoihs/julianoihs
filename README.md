@@ -2,12 +2,11 @@
 # _Juliano Azevedo_
 
 
-
+<!--
 <div align="center">
   <a href="https://github.com/julianoihs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianoihs&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
-</div>
-  
+</div> -->
   
  ## Skills :nerd_face:
 <div style="display: inline_block"><br>
@@ -61,8 +60,8 @@ Here are some ideas to get you started:
 
 Um pouco sobre mim... 
 
-- 🔭 Atualmente estou trabalhando como Analista de TI - Pleno / Estudante de DevOps
-- 🌱 Atualmente estou praticando Ansible / Python / GitLab
+- 🔭 Atualmente estou trabalhando como Analista de TI / Estudante de DevOps
+- 🌱 Atualmente estou praticando Ansible / GO / GitLab
 - 👯 À procura de um projeto Open Souce
 - 📫 Como chegar até mim: Email & LinkedIn
 
