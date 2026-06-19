@@ -1,69 +1,67 @@
-### _Olá! Sou o_  
-# _Juliano Azevedo_
+<h1 align="center">Olá, eu sou Juliano Azevedo 👋</h1>
 
-
-<!--
-<div align="center">
-  <a href="https://github.com/julianoihs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianoihs&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
-</div> -->
-  
- ## Skills :nerd_face:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Linux" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Rafa-debian" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg">
-  <img align="center" alt="Rafa-redhat" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original-wordmark.svg">
-  <img align="center" alt="Rafa-ansible" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
-  <!-- <img align="center" alt="Rafa-terraform" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg"> -->
-  <img align="center" alt="Rafa-docker" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-  <!-- <img align="center" alt="Rafa-kubernetes" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"> -->
-  <img align="center" alt="Rafa-gitlab" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg">
-  <img align="center" alt="Rafa-github" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <!-- <img align="center" alt="Rafa-git" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"> -->
-  <!-- <img align="center" alt="Rafa-nginx" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"> -->
-  <img align="center" alt="Rafa-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Rafa-vscode" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Rafa-vim" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-plain.svg">
-</div>
-
-  
-  
-  
-  ## Contact :iphone:
-  
 <p align="center">
-  <a href="https://www.linkedin.com/in/juliano-azevedo-b4798234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "mailto:julianoihs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://t.me/julianoihs"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
- <p align="center"> 
+  <strong>Analista de TI em evolução para DevOps</strong><br>
+  Automação, infraestrutura Linux, containers e entrega contínua.
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/juliano-azevedo-b4798234/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juliano_Azevedo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:julianoihs@gmail.com">
+    <img alt="E-mail" src="https://img.shields.io/badge/Email-Entre_em_contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-   
-<!-- <div>
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- </div> -->
+## Sobre mim
 
-<!-- **julianoihs/julianoihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 Trabalho com suporte e infraestrutura de TI.
+- 🐧 Tenho interesse especial em Linux, automação e cultura DevOps.
+- 🚀 Estou aprofundando meus conhecimentos em Kubernetes, Go e CI/CD.
+- 🤝 Quero colaborar com projetos open source e trocar experiências com a comunidade.
+- 🎯 Meu objetivo é construir ambientes mais automatizados, confiáveis e fáceis de manter.
 
-Here are some ideas to get you started:
+## Tecnologias e ferramentas
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como chegar até mim: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...-->
+### Infraestrutura e automação
 
-Um pouco sobre mim... 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-- 🔭 Atualmente estou trabalhando como Analista de TI / Estudante de DevOps
-- 🌱 Atualmente estou praticando Kubernetes / GO / GitLab
-- 👯 À procura de um projeto Open Souce
-- 📫 Como chegar até mim: Email & LinkedIn
+### Containers e plataformas
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 
- 
+### Desenvolvimento e entrega
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [DO180 Apps](https://github.com/julianoihs/DO180-apps) | Exercícios e aplicações para fundamentos de containers. | Linux, containers |
+| [DO280 Apps](https://github.com/julianoihs/DO280-apps) | Laboratórios de administração e operação de aplicações no OpenShift. | OpenShift, Kubernetes |
+| [DO288 Apps](https://github.com/julianoihs/DO288-apps) | Práticas de desenvolvimento e implantação de aplicações em OpenShift. | OpenShift, CI/CD |
+| [Bitnami Docker Moodle](https://github.com/julianoihs/bitnami-docker-moodle) | Ambiente Moodle conteinerizado para estudo e experimentação. | Docker, Moodle |
+
+## Atualmente
+
+```text
+Estudando  → Kubernetes, Go e pipelines de CI/CD
+Praticando → Ansible, containers e administração Linux
+Buscando   → Colaboração open source e desafios em DevOps
+```
+
+<p align="center">
+  <em>Automatizar o repetitivo para ter mais tempo de resolver o que realmente importa.</em>
+</p>
