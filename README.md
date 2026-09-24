@@ -18,7 +18,7 @@
 
 - 🔧 Trabalho com suporte e infraestrutura de TI.
 - 🐧 Tenho interesse especial em Linux, automação e cultura DevOps.
-- 🚀 Estou aprofundando meus conhecimentos em Kubernetes, Go e CI/CD.
+- 🚀 Estou aprofundando meus conhecimentos em Kubernetes e CI/CD.
 - 🤝 Quero colaborar com projetos open source e trocar experiências com a comunidade.
 - 🎯 Meu objetivo é construir ambientes mais automatizados, confiáveis e fáceis de manter.
 
@@ -62,7 +62,7 @@
 ## Atualmente
 
 ```text
-Estudando  → Kubernetes, Go e pipelines de CI/CD
+Estudando  → Kubernetes e pipelines de CI/CD
 Praticando → Ansible, containers e administração Linux
 Buscando   → Colaboração open source e desafios em DevOps
 ```
