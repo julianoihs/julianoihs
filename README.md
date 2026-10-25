@@ -1,7 +1,7 @@
 <h1 align="center">Sou Juliano Azevedo 👋</h1>
 
 <p align="center">
-  <strong>Analista Senior de TI em evolução para DevOps</strong><br>
+  <strong>Analista Senior de TI / DevOps</strong><br>
   Automação, Infraestrutura Linux, Hipervisor e Containers.
 </p>
 
@@ -17,11 +17,11 @@
 ## Sobre mim
 
 - 🔧 Atuo com Infraestrutura de TI, administração de servidores e ambientes virtualizados.
-- 🐧 Tenho forte interesse em Linux, automação, virtualização e cultura DevOps.
+- 🐧 Sempre tive forte interesse em Linux, automação, virtualização e cultura DevOps.
 - ☸️ Venho aprofundando meus conhecimentos em Kubernetes, Ansible, containers e Infrastructure as Code (IaC).
-- 🖥️ Possuo experiência com tecnologias como Proxmox, VMware, Nutanix, Veeam, Docker e GitLab.
+- 🖥️ Possuo experiência com tecnologias como Proxmox, VMware, Nutanix, Veeam, Docker, kubernetes e GitLab.
 - ⚙️ Busco transformar processos manuais em soluções automatizadas, padronizadas e documentadas.
-- 🤝 Tenho interesse em colaborar com projetos open source, compartilhar conhecimento e aprender com a comunidade.
+- 🤝 Interesse em colaborar com projetos open source, compartilhar conhecimento e aprender com a comunidade.
 - 🎯 Meu objetivo é evoluir cada vez mais em DevOps, AIops e automação de infraestrutura, construindo ambientes mais confiáveis, escaláveis e fáceis de manter.
 
 ## Tecnologias e ferramentas
